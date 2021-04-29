@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) integrated with tailwind to build my personal page.
+This is a experimental project to train tailwind and React Next doing my personal webpage.
 
 The deployed link is: https://k41n3w.vercel.app/
 
